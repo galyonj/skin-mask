@@ -1,0 +1,24 @@
+{
+  "name": "skin-mask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/galyonj/skin-mask.git"
+  },
+  "author": "John Galyon <galyon.jb@gmail.com>",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/galyonj/skin-mask/issues"
+  },
+  "homepage": "https://github.com/galyonj/skin-mask#readme",
+  "devDependencies": {
+    "@wordpress/eslint-plugin": "^9.1.1",
+    "eslint": "^7.32.0",
+    "husky": "^7.0.2"
+  }
+}
